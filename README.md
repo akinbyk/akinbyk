@@ -1,7 +1,7 @@
 <h1  a name="hakkimda",align="center">Hi, I'm @akinbyk</h1>
 
 
-- 🔭 I’m currently learning iOS Development with Swift & SwiftUI
+- 🔭 ...
 
 #
 
