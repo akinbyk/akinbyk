@@ -3,15 +3,6 @@
 
 - 🔭 ...
 
-#
-
-
-| <a href="#hakkimda">Who am i </a>  | <a href="#iletisim">Connect with me</a> | <a href="#teknoloji">Languages and Tools</a> | <a href="#stats">Stats</a> 
-| --- | --- | --- | --- |
- 
- 
-#
-
 
 
 #  <h2><a name="iletisim">👨‍💻 Connect with me</a></h2>
